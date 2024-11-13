@@ -1,0 +1,60 @@
+{
+  "register": [
+    {
+      "id": "788f",
+      "name": "Nakkeeran T",
+      "email": "nakkeeran3110@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "ac43",
+      "name": "Nakkeeran",
+      "email": "nakkeeran3110@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    },
+    {
+      "id": "5cee",
+      "name": "Nakkeeran T",
+      "email": "nakkeeran3110@gmail.com",
+      "password": "123456789",
+      "confirmPassword": "123456789"
+    },
+    {
+      "id": "74b5",
+      "name": "Mithun",
+      "email": "727723eucs131@skcet.ac.in",
+      "password": "mnmnmnmn",
+      "confirmPassword": "mnmnmnmn"
+    },
+    {
+      "id": "f3d0",
+      "name": "Mithun",
+      "email": "user@gmail.com",
+      "password": "mithun123",
+      "confirmPassword": "mithun123"
+    },
+    {
+      "id": "0dee",
+      "name": "Nakkeeran T",
+      "email": "727723eucs136@skcet.ac.in",
+      "password": "password",
+      "confirmPassword": "password"
+    },
+    {
+      "id": "5ef4",
+      "name": "Nt",
+      "email": "24cse509@skcet.ac.in",
+      "password": "147258369",
+      "confirmPassword": "147258369"
+    },
+    {
+      "id": "a0e4",
+      "name": "Nakkeeran",
+      "email": "nakkeeran3110@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678"
+    }
+  ]
+}
